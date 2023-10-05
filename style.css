@@ -17,10 +17,6 @@ body{
     align-items: center;
     justify-content: center;
 }
-
-p{
-    width: 75vw;
-}
 h1{
     color: black;
     font-size: 72px;
